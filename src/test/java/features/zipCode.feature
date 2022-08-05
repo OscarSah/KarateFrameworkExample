@@ -1,5 +1,5 @@
 Feature: Zip Code Tests
-  @wip
+
   Scenario: Basic GET Test
     Given url "http://api.zippopotam.us/us/22031"
     When method GET
