@@ -28,7 +28,7 @@ Feature: Parameters Example
     """
     And match response == expectedSpartan
 
-  @wip
+
   Scenario: query parameter example
     Given url spartanUrl
     And path "api/spartans/search"

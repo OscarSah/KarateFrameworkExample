@@ -1,0 +1,68 @@
+{
+  "id": 2,
+  "location": "IL",
+  "clusters": [
+    {
+      "id": 5,
+      "name": "il",
+      "rooms": [
+        {
+          "id": 211,
+          "name": "google",
+          "description": "don't be evil",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        },
+        {
+          "id": 212,
+          "name": "apple",
+          "description": "think different",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        },
+        {
+          "id": 213,
+          "name": "microsoft",
+          "description": "be what's next",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        },
+        {
+          "id": 214,
+          "name": "bay_area",
+          "description": "make future",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        },
+        {
+          "id": 215,
+          "name": "amazon",
+          "description": "work hard. have fun. make history",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        },
+        {
+          "id": 216,
+          "name": "tesla",
+          "description": "just do it",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        },
+        {
+          "id": 217,
+          "name": "facebook",
+          "description": "move fast and break things",
+          "capacity": 6,
+          "withTV": true,
+          "withWhiteBoard": true
+        }
+      ]
+    }
+  ]
+}
